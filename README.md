@@ -1,2 +1,2 @@
-# LiftedCX
+# liftedCX
 Customer Experience Management
